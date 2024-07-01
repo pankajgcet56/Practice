@@ -1,0 +1,14 @@
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/bin/Debug/net8.0/SCSSolution
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/bin/Debug/net8.0/SCSSolution.deps.json
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/bin/Debug/net8.0/SCSSolution.runtimeconfig.json
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/bin/Debug/net8.0/SCSSolution.dll
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/bin/Debug/net8.0/SCSSolution.pdb
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.AssemblyInfoInputs.cache
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.AssemblyInfo.cs
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.csproj.CoreCompileInputs.cache
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.dll
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/refint/SCSSolution.dll
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.pdb
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/SCSSolution.genruntimeconfig.cache
+/Users/payadav/Perforce/Exercise/SCSSolution/SCSSolution/obj/Debug/net8.0/ref/SCSSolution.dll
