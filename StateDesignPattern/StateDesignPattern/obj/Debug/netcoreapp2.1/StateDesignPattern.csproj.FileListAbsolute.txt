@@ -1,0 +1,10 @@
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.deps.json
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.runtimeconfig.json
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.runtimeconfig.dev.json
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.dll
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.pdb
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.csprojAssemblyReference.cache
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfoInputs.cache
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.dll
+/Users/payadav/ZyngaProduct/MyProjectGitHub/DesignPatterns/StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.pdb

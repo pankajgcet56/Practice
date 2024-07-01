@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c906741-51de-4490-b299-c1e8753221a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Pizza.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/.vs/StateDesignPattern/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/.vs/StateDesignPattern/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/.vs/StateDesignPattern/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/.vs/StateDesignPattern/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/bin/Debug/netcoreapp2.1/StateDesignPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Pizza.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Pizza.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1564424361032" expanded="true" signature="55:433" ph="{...}" />
+                <marker date="1564424361032" expanded="true" signature="85:155" ph="{...}" />
+                <marker date="1564424361032" expanded="true" signature="192:431" ph="{...}" />
+                <marker date="1564424361032" expanded="true" signature="221:242" ph="{...}" />
+                <marker date="1564424361032" expanded="true" signature="290:338" ph="{...}" />
+                <marker date="1564424361032" expanded="true" signature="378:425" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1564424176368" expanded="true" signature="7:53" ph="..." />
+                <marker date="1564424176368" expanded="true" signature="81:633" ph="{...}" />
+                <marker date="1564424176368" expanded="true" signature="101:631" ph="{...}" />
+                <marker date="1564424176368" expanded="true" signature="147:625" ph="{...}" />
+                <marker date="1564424176368" expanded="true" signature="218:305" ph="/* string key; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToppingDecorator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/ToppingDecorator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding>
+                <marker date="1564424396724" expanded="true" signature="286:328" ph="{...}" />
+                <marker date="1564424396724" expanded="true" signature="286:577" ph="{...}" />
+                <marker date="1564424396724" expanded="true" signature="286:579" ph="{...}" />
+                <marker date="1564424396724" expanded="true" signature="384:471" ph="{...}" />
+                <marker date="1564424396724" expanded="true" signature="511:571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mozzarella.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Mozzarella.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <marker date="1564423365639" expanded="true" signature="56:533" ph="{...}" />
+                <marker date="1564423365639" expanded="true" signature="105:531" ph="{...}" />
+                <marker date="1564423365639" expanded="true" signature="151:212" ph="{...}" />
+                <marker date="1564423365639" expanded="true" signature="261:338" ph="{...}" />
+                <marker date="1564423365639" expanded="true" signature="393:525" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chease.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Chease.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <folding>
+                <marker date="1564423436573" expanded="true" signature="56:490" ph="{...}" />
+                <marker date="1564423436573" expanded="true" signature="101:488" ph="{...}" />
+                <marker date="1564423436573" expanded="true" signature="157:255" ph="{...}" />
+                <marker date="1564423436573" expanded="true" signature="296:360" ph="{...}" />
+                <marker date="1564423436573" expanded="true" signature="409:482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TommatoSos.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/TommatoSos.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <marker date="1564423346848" expanded="true" signature="56:507" ph="{...}" />
+                <marker date="1564423346848" expanded="true" signature="105:505" ph="{...}" />
+                <marker date="1564423346848" expanded="true" signature="165:267" ph="{...}" />
+                <marker date="1564423346848" expanded="true" signature="308:372" ph="{...}" />
+                <marker date="1564423346848" expanded="true" signature="421:499" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Chease.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/TommatoSos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Pizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Mozzarella.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/ToppingDecorator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Decorator.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/TommatoSos.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Mozzarella.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Chease.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/ToppingDecorator.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/Program.cs" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Pizza.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DecoratorPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DecoratorPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DecoratorPattern" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DecoratorPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DecoratorPattern" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PizzaDecorator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DecoratorPattern" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c906741-51de-4490-b299-c1e8753221a4" name="Default" comment="" />
+      <created>1564422713153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564422713153</updated>
+      <workItem from="1564422715276" duration="1452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1452000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Decorator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/TommatoSos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <marker date="1564423346848" expanded="true" signature="56:507" ph="{...}" />
+            <marker date="1564423346848" expanded="true" signature="105:505" ph="{...}" />
+            <marker date="1564423346848" expanded="true" signature="165:267" ph="{...}" />
+            <marker date="1564423346848" expanded="true" signature="308:372" ph="{...}" />
+            <marker date="1564423346848" expanded="true" signature="421:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Chease.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <marker date="1564423436573" expanded="true" signature="56:490" ph="{...}" />
+            <marker date="1564423436573" expanded="true" signature="101:488" ph="{...}" />
+            <marker date="1564423436573" expanded="true" signature="157:255" ph="{...}" />
+            <marker date="1564423436573" expanded="true" signature="296:360" ph="{...}" />
+            <marker date="1564423436573" expanded="true" signature="409:482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Mozzarella.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <marker date="1564423365639" expanded="true" signature="56:533" ph="{...}" />
+            <marker date="1564423365639" expanded="true" signature="105:531" ph="{...}" />
+            <marker date="1564423365639" expanded="true" signature="151:212" ph="{...}" />
+            <marker date="1564423365639" expanded="true" signature="261:338" ph="{...}" />
+            <marker date="1564423365639" expanded="true" signature="393:525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/ToppingDecorator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <marker date="1564424396724" expanded="true" signature="286:328" ph="{...}" />
+            <marker date="1564424396724" expanded="true" signature="286:577" ph="{...}" />
+            <marker date="1564424396724" expanded="true" signature="286:579" ph="{...}" />
+            <marker date="1564424396724" expanded="true" signature="384:471" ph="{...}" />
+            <marker date="1564424396724" expanded="true" signature="511:571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/PizzaDecorator/Pizza.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1564424361032" expanded="true" signature="55:433" ph="{...}" />
+            <marker date="1564424361032" expanded="true" signature="85:155" ph="{...}" />
+            <marker date="1564424361032" expanded="true" signature="192:431" ph="{...}" />
+            <marker date="1564424361032" expanded="true" signature="221:242" ph="{...}" />
+            <marker date="1564424361032" expanded="true" signature="290:338" ph="{...}" />
+            <marker date="1564424361032" expanded="true" signature="378:425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1564424176368" expanded="true" signature="7:53" ph="..." />
+            <marker date="1564424176368" expanded="true" signature="81:633" ph="{...}" />
+            <marker date="1564424176368" expanded="true" signature="101:631" ph="{...}" />
+            <marker date="1564424176368" expanded="true" signature="147:625" ph="{...}" />
+            <marker date="1564424176368" expanded="true" signature="218:305" ph="/* string key; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

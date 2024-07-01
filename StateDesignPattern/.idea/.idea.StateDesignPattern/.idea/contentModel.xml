@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_StateDesignPattern.1216764862.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StateDesignPattern" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GateExample" t="Include">
+          <e p="Gate.cs" t="Include" />
+          <e p="GateState.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="StateDesignPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solid.State" t="Include">
+          <e p="Debug.cs" t="Include" />
+          <e p="Events.cs" t="Include" />
+          <e p="Exceptions.cs" t="Include" />
+          <e p="ISolidState.cs" t="Include" />
+          <e p="IStateResolver.cs" t="Include" />
+          <e p="PreserveAttribute.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="SolidMachine.cs" t="Include" />
+          <e p="SolidMachineBase.cs" t="Include" />
+          <e p="SolidState.cs" t="Include" />
+          <e p="SolidStateConstants.cs" t="Include" />
+          <e p="StateConfiguration.cs" t="Include" />
+          <e p="TriggerConfiguration.cs" t="Include" />
+        </e>
+        <e p="StateDesignPattern.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="StateDesignPattern.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

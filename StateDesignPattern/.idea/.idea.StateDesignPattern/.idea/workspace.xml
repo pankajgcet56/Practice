@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91703a5d-17cd-48a7-b661-3adac4762ef8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/.vs/DecoratorPattern/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/.vs/DecoratorPattern/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/.vs/DecoratorPattern/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/.vs/DecoratorPattern/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/PizzaDecorator/Mozzarella.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/PizzaDecorator/Mozzarella.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/bin/Debug/netcoreapp2.1/DecoratorPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/DecoratorPattern/obj/Debug/netcoreapp2.1/DecoratorPattern.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/StateDesignPattern.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/StateDesignPattern.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/StateDesignPattern.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/StateDesignPattern.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateDesignPattern/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StateDesignPattern/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <marker date="1565159463727" expanded="false" signature="6:101" ph="..." />
+                <marker date="1565159463727" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1565159463727" expanded="true" signature="582:792" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1565159463727" expanded="true" signature="967:1294" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StateDesignPattern.AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1590316649957" expanded="true" signature="0:1024" ph="/* ------------------------------------------------------------------------------ ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolidMachine.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidMachine.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+              <folding>
+                <marker date="1565159463728" expanded="false" signature="6:91" ph="..." />
+                <marker date="1565159463728" expanded="true" signature="114:20141" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="183:19625" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="1436:1550" ph="/// Enters a new state (if there is one) Does NOT raise the OnTransitioned event. ... " />
+                <marker date="1565159463728" expanded="true" signature="1640:1885" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="1678:1748" ph="/* Type currentStateType = null; ... */" />
+                <marker date="1565159463728" expanded="true" signature="1778:1881" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="1889:2011" ph="/// Enters a new state (if there is one) and raises the OnTransitioned event. ... " />
+                <marker date="1565159463728" expanded="true" signature="2096:2549" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="2268:2395" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="2559:2691" ph="/// Exits the current state and returns the Type of it. ... " />
+                <marker date="1565159463728" expanded="true" signature="2748:3182" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="2843:3172" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="3192:3387" ph="/// Handles the processing of a trigger, calculating if it is valid and which target state we should go to. ... " />
+                <marker date="1565159463728" expanded="true" signature="3436:5494" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="3707:3865" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="3882:5484" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="4003:4200" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="4221:5470" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="4539:5021" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="4607:4999" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="4690:4923" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="5126:5321" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="5560:6108" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="5821:6084" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="6118:6292" ph="/// Loops through the transition queue until it is empty, executing the queued ... " />
+                <marker date="1565159463728" expanded="true" signature="6338:7156" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="6425:7054" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="7074:7146" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="7166:7259" ph="/// Sets the initial state of the state machine. ... " />
+                <marker date="1565159463728" expanded="true" signature="7342:7461" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="7465:7660" ph="/// Sets the initial state of the state machine. This method is ONLY intended ... " />
+                <marker date="1565159463728" expanded="true" signature="7739:8117" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="7895:7999" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="8007:8113" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="8123:8298" ph="/// Creates an instance of a specified state type, either through .NET activation ... " />
+                <marker date="1565159463728" expanded="true" signature="8359:8870" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="8453:8769" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="8576:8722" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="8880:9043" ph="/// Checks if a state resolver will be required on state machine startup. ... " />
+                <marker date="1565159463728" expanded="true" signature="9103:9608" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="9618:9752" ph="/// Gets the object that should be used as state context. ... " />
+                <marker date="1565159463728" expanded="true" signature="9788:9845" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="9855:10010" ph="/// Returns a list of all triggers that are valid to use on the current state. ... " />
+                <marker date="1565159463728" expanded="true" signature="10060:10347" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="10387:10466" ph="/// Raises the Transitioned event. ... " />
+                <marker date="1565159463728" expanded="true" signature="10545:10650" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="10706:10992" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="11046:11098" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="11189:11285" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="11314:11436" ph="/// Raised when the state machine has transitioned from one state to another. ... " />
+                <marker date="1565159463728" expanded="false" signature="11603:11776" ph="/// Defines a state that should be configured. ... " />
+                <marker date="1565159463728" expanded="true" signature="11860:12715" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="12315:12670" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="12725:12829" ph="/// Starts the state machine by going to the initial state. ... " />
+                <marker date="1565159463728" expanded="true" signature="12866:13661" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="12915:12993" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="13197:13369" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="13671:13800" ph="/// Stops the state machine by exiting the current state without entering a new one. ... " />
+                <marker date="1565159463728" expanded="true" signature="13836:14450" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="13987:14356" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="14376:14440" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="14460:14609" ph="/// Adds a request to fire a trigger to the processing queue. ... " />
+                <marker date="1565159463728" expanded="true" signature="14655:14961" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="14685:14707" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="14971:15115" ph="/// Moves the state machine back to the previous state, ignoring valid triggers, guard clauses etc. ... " />
+                <marker date="1565159463728" expanded="true" signature="15144:15727" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="15771:16204" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="16237:16325" ph="/// The type of the machines initial state. ... " />
+                <marker date="1565159463728" expanded="true" signature="16358:16430" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="16440:16546" ph="/// Returns the state that the state machine is currently in. ... " />
+                <marker date="1565159463728" expanded="true" signature="16595:16812" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="16621:16802" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="16822:17009" ph="/// A list of the triggers that are valid to use on the current state. ... " />
+                <marker date="1565159463728" expanded="true" signature="17053:17120" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="17130:17358" ph="/// An arbitrary object that will be passed on to the states in their entry and exit methods. ... " />
+                <marker date="1565159463728" expanded="true" signature="17388:17483" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="17493:17711" ph="/// The resolver for state machine states. If this is not specified the standard ... " />
+                <marker date="1565159463728" expanded="true" signature="17755:17862" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="17872:18075" ph="/// Controls whether state class instances should be Singletons or if they should be instantiated ... " />
+                <marker date="1565159463728" expanded="true" signature="18136:18510" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="18214:18500" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="18306:18418" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="18520:18715" ph="/// Returns an array of the states the state machine has been in. The last state is at index 0. ... " />
+                <marker date="1565159463728" expanded="true" signature="18750:18938" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="18776:18928" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="18948:19108" ph="/// The number of entries that will be kept in the state history before an automatic ... " />
+                <marker date="1565159463728" expanded="true" signature="19153:19619" ph="{...}" />
+                <marker date="1565159463728" expanded="true" signature="19234:19609" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="19631:19722" ph="/// Enumeration of possible state instantiation modes. ... " />
+                <marker date="1565159463728" expanded="true" signature="19761:20139" ph="{...}" />
+                <marker date="1565159463728" expanded="false" signature="19776:19965" ph="/// The state class is instantiated the first time it is used. All following ... " />
+                <marker date="1565159463728" expanded="false" signature="19994:20111" ph="/// The target state of a transition is instantiated on each transition. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debug.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Debug.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1590316755011" expanded="true" signature="21:296" ph="{...}" />
+                <marker date="1590316755011" expanded="true" signature="46:294" ph="{...}" />
+                <marker date="1590316755011" expanded="true" signature="93:126" ph="{...}" />
+                <marker date="1590316755011" expanded="true" signature="173:206" ph="{...}" />
+                <marker date="1590316755011" expanded="true" signature="255:288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Events.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Events.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1565159463726" expanded="true" signature="36:1152" ph="{...}" />
+                <marker date="1565159463726" expanded="true" signature="43:204" ph="/// Delegate for the SolidMachine.Transitioned event. ... " />
+                <marker date="1565159463726" expanded="false" signature="301:392" ph="/// EventArgs for the SolidMachine.Transitioned event. ... " />
+                <marker date="1565159463726" expanded="true" signature="443:1150" ph="{...}" />
+                <marker date="1565159463726" expanded="true" signature="647:747" ph="{...}" />
+                <marker date="1565159463726" expanded="false" signature="780:864" ph="/// The source state of the transition. ... " />
+                <marker date="1565159463726" expanded="true" signature="896:957" ph="{...}" />
+                <marker date="1565159463726" expanded="false" signature="967:1051" ph="/// The target state of the transition. ... " />
+                <marker date="1565159463726" expanded="true" signature="1083:1144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolidState.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidState.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <marker date="1565159463729" expanded="true" signature="21:1052" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="28:379" ph="/// A simple base class that can be used when creating state machine states. Since the interface is implemented ... " />
+                <marker date="1565159463729" expanded="true" signature="459:1050" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="558:580" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="635:657" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="711:754" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="805:848" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="894:947" ph="{...}" />
+                <marker date="1565159463729" expanded="true" signature="992:1044" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Debug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/Gate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Events.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/GateState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineActiveForAllState.cs" />
+        <option value="$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineFTUEState.cs" />
+        <option value="$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineNotStartedState.cs" />
+        <option value="$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineState.cs" />
+        <option value="$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/StateDesignPattern/Solid.State/Debug.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateDesignPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateDesignPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StateDesignPattern" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateDesignPattern (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StateDesignPattern" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solid.State" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91703a5d-17cd-48a7-b661-3adac4762ef8" name="Default" comment="" />
+      <created>1590249873318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590249873318</updated>
+      <workItem from="1590249875495" duration="358000" />
+      <workItem from="1590315315745" duration="1378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1736000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3297414" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/Gate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <marker date="1564299058163" expanded="true" signature="54:1280" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="78:1278" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="156:214" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="241:297" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="326:384" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="417:479" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="529:848" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="569:668" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="886:1118" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="926:1065" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="1141:1272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <marker date="1564311398929" expanded="true" signature="44:1978" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="64:1976" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="156:916" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="720:905" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="972:1970" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="1012:1958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/GateState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1564298011408" expanded="true" signature="54:2421" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="89:191" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="241:1026" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="310:416" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="451:555" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="596:706" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="743:849" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="886:1020" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1070:1478" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1113:1368" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1422:1472" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1524:1841" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1565:1728" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1785:1835" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1891:2419" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1940:2105" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="2143:2303" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="2363:2413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/GateState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1564298011408" expanded="true" signature="54:2421" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="89:191" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="241:1026" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="310:416" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="451:555" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="596:706" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="743:849" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="886:1020" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1070:1478" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1113:1368" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1422:1472" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1524:1841" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1565:1728" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1785:1835" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1891:2419" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="1940:2105" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="2143:2303" ph="{...}" />
+            <marker date="1564298011408" expanded="true" signature="2363:2413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <marker date="1564311398929" expanded="true" signature="44:1978" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="64:1976" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="156:916" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="720:905" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="972:1970" ph="{...}" />
+            <marker date="1564311398929" expanded="true" signature="1012:1958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/GateExample/Gate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <marker date="1564299058163" expanded="true" signature="54:1280" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="78:1278" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="156:214" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="241:297" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="326:384" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="417:479" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="529:848" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="569:668" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="886:1118" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="926:1065" ph="{...}" />
+            <marker date="1564299058163" expanded="true" signature="1141:1272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineActiveForAllState.cs.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineActiveForAllState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineFTUEState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineNotStartedState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/StateBase/BaseStates/StateMachineState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="46" column="63" lean-forward="true" selection-start-line="46" selection-start-column="63" selection-end-line="46" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Events.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1565159463726" expanded="true" signature="36:1152" ph="{...}" />
+            <marker date="1565159463726" expanded="true" signature="43:204" ph="/// Delegate for the SolidMachine.Transitioned event. ... " />
+            <marker date="1565159463726" expanded="false" signature="301:392" ph="/// EventArgs for the SolidMachine.Transitioned event. ... " />
+            <marker date="1565159463726" expanded="true" signature="443:1150" ph="{...}" />
+            <marker date="1565159463726" expanded="true" signature="647:747" ph="{...}" />
+            <marker date="1565159463726" expanded="false" signature="780:864" ph="/// The source state of the transition. ... " />
+            <marker date="1565159463726" expanded="true" signature="896:957" ph="{...}" />
+            <marker date="1565159463726" expanded="false" signature="967:1051" ph="/// The target state of the transition. ... " />
+            <marker date="1565159463726" expanded="true" signature="1083:1144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1565159463729" expanded="true" signature="21:1052" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="28:379" ph="/// A simple base class that can be used when creating state machine states. Since the interface is implemented ... " />
+            <marker date="1565159463729" expanded="true" signature="459:1050" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="558:580" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="635:657" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="711:754" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="805:848" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="894:947" ph="{...}" />
+            <marker date="1565159463729" expanded="true" signature="992:1044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <marker date="1565159463727" expanded="false" signature="6:101" ph="..." />
+            <marker date="1565159463727" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1565159463727" expanded="true" signature="582:792" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1565159463727" expanded="true" signature="967:1294" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/obj/Debug/netcoreapp2.1/StateDesignPattern.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1590316649957" expanded="true" signature="0:1024" ph="/* ------------------------------------------------------------------------------ ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/SolidMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+          <folding>
+            <marker date="1565159463728" expanded="false" signature="6:91" ph="..." />
+            <marker date="1565159463728" expanded="true" signature="114:20141" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="183:19625" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="1436:1550" ph="/// Enters a new state (if there is one) Does NOT raise the OnTransitioned event. ... " />
+            <marker date="1565159463728" expanded="true" signature="1640:1885" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="1678:1748" ph="/* Type currentStateType = null; ... */" />
+            <marker date="1565159463728" expanded="true" signature="1778:1881" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="1889:2011" ph="/// Enters a new state (if there is one) and raises the OnTransitioned event. ... " />
+            <marker date="1565159463728" expanded="true" signature="2096:2549" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="2268:2395" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="2559:2691" ph="/// Exits the current state and returns the Type of it. ... " />
+            <marker date="1565159463728" expanded="true" signature="2748:3182" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="2843:3172" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="3192:3387" ph="/// Handles the processing of a trigger, calculating if it is valid and which target state we should go to. ... " />
+            <marker date="1565159463728" expanded="true" signature="3436:5494" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="3707:3865" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="3882:5484" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="4003:4200" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="4221:5470" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="4539:5021" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="4607:4999" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="4690:4923" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="5126:5321" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="5560:6108" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="5821:6084" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="6118:6292" ph="/// Loops through the transition queue until it is empty, executing the queued ... " />
+            <marker date="1565159463728" expanded="true" signature="6338:7156" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="6425:7054" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="7074:7146" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="7166:7259" ph="/// Sets the initial state of the state machine. ... " />
+            <marker date="1565159463728" expanded="true" signature="7342:7461" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="7465:7660" ph="/// Sets the initial state of the state machine. This method is ONLY intended ... " />
+            <marker date="1565159463728" expanded="true" signature="7739:8117" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="7895:7999" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="8007:8113" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="8123:8298" ph="/// Creates an instance of a specified state type, either through .NET activation ... " />
+            <marker date="1565159463728" expanded="true" signature="8359:8870" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="8453:8769" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="8576:8722" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="8880:9043" ph="/// Checks if a state resolver will be required on state machine startup. ... " />
+            <marker date="1565159463728" expanded="true" signature="9103:9608" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="9618:9752" ph="/// Gets the object that should be used as state context. ... " />
+            <marker date="1565159463728" expanded="true" signature="9788:9845" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="9855:10010" ph="/// Returns a list of all triggers that are valid to use on the current state. ... " />
+            <marker date="1565159463728" expanded="true" signature="10060:10347" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="10387:10466" ph="/// Raises the Transitioned event. ... " />
+            <marker date="1565159463728" expanded="true" signature="10545:10650" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="10706:10992" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="11046:11098" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="11189:11285" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="11314:11436" ph="/// Raised when the state machine has transitioned from one state to another. ... " />
+            <marker date="1565159463728" expanded="false" signature="11603:11776" ph="/// Defines a state that should be configured. ... " />
+            <marker date="1565159463728" expanded="true" signature="11860:12715" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="12315:12670" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="12725:12829" ph="/// Starts the state machine by going to the initial state. ... " />
+            <marker date="1565159463728" expanded="true" signature="12866:13661" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="12915:12993" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="13197:13369" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="13671:13800" ph="/// Stops the state machine by exiting the current state without entering a new one. ... " />
+            <marker date="1565159463728" expanded="true" signature="13836:14450" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="13987:14356" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="14376:14440" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="14460:14609" ph="/// Adds a request to fire a trigger to the processing queue. ... " />
+            <marker date="1565159463728" expanded="true" signature="14655:14961" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="14685:14707" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="14971:15115" ph="/// Moves the state machine back to the previous state, ignoring valid triggers, guard clauses etc. ... " />
+            <marker date="1565159463728" expanded="true" signature="15144:15727" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="15771:16204" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="16237:16325" ph="/// The type of the machines initial state. ... " />
+            <marker date="1565159463728" expanded="true" signature="16358:16430" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="16440:16546" ph="/// Returns the state that the state machine is currently in. ... " />
+            <marker date="1565159463728" expanded="true" signature="16595:16812" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="16621:16802" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="16822:17009" ph="/// A list of the triggers that are valid to use on the current state. ... " />
+            <marker date="1565159463728" expanded="true" signature="17053:17120" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="17130:17358" ph="/// An arbitrary object that will be passed on to the states in their entry and exit methods. ... " />
+            <marker date="1565159463728" expanded="true" signature="17388:17483" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="17493:17711" ph="/// The resolver for state machine states. If this is not specified the standard ... " />
+            <marker date="1565159463728" expanded="true" signature="17755:17862" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="17872:18075" ph="/// Controls whether state class instances should be Singletons or if they should be instantiated ... " />
+            <marker date="1565159463728" expanded="true" signature="18136:18510" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="18214:18500" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="18306:18418" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="18520:18715" ph="/// Returns an array of the states the state machine has been in. The last state is at index 0. ... " />
+            <marker date="1565159463728" expanded="true" signature="18750:18938" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="18776:18928" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="18948:19108" ph="/// The number of entries that will be kept in the state history before an automatic ... " />
+            <marker date="1565159463728" expanded="true" signature="19153:19619" ph="{...}" />
+            <marker date="1565159463728" expanded="true" signature="19234:19609" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="19631:19722" ph="/// Enumeration of possible state instantiation modes. ... " />
+            <marker date="1565159463728" expanded="true" signature="19761:20139" ph="{...}" />
+            <marker date="1565159463728" expanded="false" signature="19776:19965" ph="/// The state class is instantiated the first time it is used. All following ... " />
+            <marker date="1565159463728" expanded="false" signature="19994:20111" ph="/// The target state of a transition is instantiated on each transition. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateDesignPattern/Solid.State/Debug.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1590316755011" expanded="true" signature="21:296" ph="{...}" />
+            <marker date="1590316755011" expanded="true" signature="46:294" ph="{...}" />
+            <marker date="1590316755011" expanded="true" signature="93:126" ph="{...}" />
+            <marker date="1590316755011" expanded="true" signature="173:206" ph="{...}" />
+            <marker date="1590316755011" expanded="true" signature="255:288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

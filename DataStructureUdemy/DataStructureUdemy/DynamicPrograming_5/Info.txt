@@ -1,0 +1,24 @@
+
+-----------------------------------------------
+1. Remember What was solved
+2. Overlaping Sub Problems
+3. memorization : Store Solutions inside Array
+4. Build from Smaller Solutions
+
+
+-----------------------------------------------
+Bottom Up DP
+
+5. Start with small solutions and use small solutions build larger solutions 
+
+
+-----------------------------------------------
+
+A. DP is an optimization technique 
+B. For problems with optimal substructure and overlapping sub problems
+c. DP solutions can be :
+    1. Top Down (Recursion + Memorization )
+    2. Bottom UP (Iterative)
+
+-----------------------------------------------
+

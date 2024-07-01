@@ -1,0 +1,79 @@
+➜  dot-net-6 git:(master) ✗ dotnet new sln -o BuberBreakfast
+The template "Solution File" was created successfully.
+
+➜  dot-net-6 git:(master) ✗ ls -la
+total 0
+drwxr-xr-x   4 payadav  group  128 Oct 19 23:23 .
+drwxr-xr-x  21 payadav  group  672 Oct 19 22:19 ..
+drwxr-xr-x   3 payadav  group   96 Oct 19 23:23 BuberBreakfast
+drwxr-xr-x   7 payadav  group  224 Oct 19 22:27 consoleApp
+➜  dot-net-6 git:(master) ✗ code .
+➜  dot-net-6 git:(master) ✗ cd BuberBreakfast
+total 8
+drwxr-xr-x  3 payadav  group    96B Oct 19 23:23 .
+drwxr-xr-x  4 payadav  group   128B Oct 19 23:23 ..
+-rw-r--r--  1 payadav  group   441B Oct 19 23:23 BuberBreakfast.sln
+➜  BuberBreakfast git:(master) ✗ dotnet new classlib -o BuberBreakfast.Contracts
+The template "Class Library" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on /Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj...
+  Determining projects to restore...
+  Restored /Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj (in 36 ms).
+Restore succeeded.
+
+
+➜  BuberBreakfast git:(master) ✗ code .
+➜  BuberBreakfast git:(master) ✗ donnet new webapi -o BuberBreakfast
+zsh: command not found: donnet
+➜  BuberBreakfast git:(master) ✗ dotnet new webapi -o BuberBreakfast
+The template "ASP.NET Core Web API" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on /Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj...
+  Determining projects to restore...
+  Restored /Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj (in 4.27 sec).
+Restore succeeded.
+
+
+➜  BuberBreakfast git:(master) ✗ dotnet build
+MSBuild version 17.3.1+2badb37d1 for .NET
+  Determining projects to restore...
+/usr/local/share/dotnet/sdk/6.0.401/NuGet.targets(132,5): warning : Unable to find a project to restore! [/Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.sln]
+
+Build succeeded.
+
+/usr/local/share/dotnet/sdk/6.0.401/NuGet.targets(132,5): warning : Unable to find a project to restore! [/Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.sln]
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.08
+➜  BuberBreakfast git:(master) ✗
+
+
+➜  BuberBreakfast git:(master) ✗ dotnet build
+MSBuild version 17.3.1+2badb37d1 for .NET
+  Determining projects to restore...
+/usr/local/share/dotnet/sdk/6.0.401/NuGet.targets(132,5): warning : Unable to find a project to restore! [/Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.sln]
+
+Build succeeded.
+
+/usr/local/share/dotnet/sdk/6.0.401/NuGet.targets(132,5): warning : Unable to find a project to restore! [/Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast/BuberBreakfast.sln]
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.08
+➜  BuberBreakfast git:(master) ✗ pwd
+/Users/payadav/Perforce/Exercise/dot-net-6/BuberBreakfast
+➜  BuberBreakfast git:(master) ✗ l
+total 16
+drwxr-xr-x   6 payadav  group   192B Oct 19 23:27 .
+drwxr-xr-x   4 payadav  group   128B Oct 19 23:23 ..
+drwxr-xr-x  10 payadav  group   320B Oct 19 23:26 BuberBreakfast
+drwxr-xr-x   6 payadav  group   192B Oct 19 23:25 BuberBreakfast.Contracts
+-rw-r--r--   1 payadav  group   441B Oct 19 23:23 BuberBreakfast.sln
+-rw-r--r--   1 payadav  group   2.4K Oct 19 23:27 README
+➜  BuberBreakfast git:(master) ✗ dotnet sln add ./BuberBreakfast.Contracts/ ./BuberBreakfast/
+Project `BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj` added to the solution.
+Project `BuberBreakfast/BuberBreakfast.csproj` added to the solution.
+➜  BuberBreakfast git:(master) ✗ donet sln add (ls -r **/*.csproj)

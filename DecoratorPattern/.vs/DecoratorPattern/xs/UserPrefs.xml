@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{58402568-8C0B-4B65-BC68-03BD8D9D9E47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorPattern/PizzaDecorator/Pizza.cs">
+    <Files>
+      <File FileName="DecoratorPattern/Program.cs" Line="16" Column="61" />
+      <File FileName="DecoratorPattern/PizzaDecorator/Pizza.cs" Line="10" Column="32" />
+      <File FileName="DecoratorPattern/PizzaDecorator/ToppingDecorator.cs" Line="4" Column="51" />
+      <File FileName="DecoratorPattern/PizzaDecorator/TommatoSos.cs" Line="1" Column="1" />
+      <File FileName="DecoratorPattern/PizzaDecorator/Chease.cs" Line="23" Column="2" />
+      <File FileName="DecoratorPattern/PizzaDecorator/Mozzarella.cs" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecoratorPattern" expanded="True">
+            <Node name="DecoratorPattern" expanded="True">
+              <Node name="PizzaDecorator" expanded="True">
+                <Node name="Pizza.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DecoratorPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

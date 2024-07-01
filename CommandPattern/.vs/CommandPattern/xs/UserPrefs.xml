@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{93B0956A-119F-4B3E-A97D-4860BFA0EA89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommandPattern/Program.cs">
+    <Files>
+      <File FileName="CommandPattern/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommandPattern" expanded="True">
+            <Node name="CommandPattern" expanded="True">
+              <Node name="RemoteControlExample" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CommandPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_DecoratorPattern.-1151670850.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DecoratorPattern" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DecoratorPattern.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="DecoratorPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PizzaDecorator" t="Include">
+          <e p="Chease.cs" t="Include" />
+          <e p="Mozzarella.cs" t="Include" />
+          <e p="Pizza.cs" t="Include" />
+          <e p="TommatoSos.cs" t="Include" />
+          <e p="ToppingDecorator.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DecoratorPattern.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
