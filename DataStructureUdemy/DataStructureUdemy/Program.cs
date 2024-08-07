@@ -8,7 +8,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Main Start");
+        Console.WriteLine("Start ...");
         var type = typeof(Problem);
         var types = AppDomain.CurrentDomain.GetAssemblies()
             .SelectMany(s => s.GetTypes())
