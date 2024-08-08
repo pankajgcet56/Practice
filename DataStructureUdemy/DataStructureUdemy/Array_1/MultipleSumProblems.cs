@@ -12,6 +12,12 @@ public class MultipleSumProblems : Problem
         int target = 6;
         Console.WriteLine(string.Join(",",TwoSum(dataSet,target)));
     }
+    
+    public IList<IList<int>> ThreeSum(int[] nums)
+    {
+        
+        return null;
+    }
 
     public int[] TwoSum(int[] nums, int target) 
     {
