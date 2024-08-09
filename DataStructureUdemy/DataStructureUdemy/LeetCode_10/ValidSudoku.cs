@@ -21,7 +21,6 @@ public class ValidSudoku : Problem
         dataSet[7] = new char[9] {'.','.','.','.','.','.','.','.','.'};
         dataSet[8] = new char[9] {'.','.','.','.','.','.','.','.','.'};
         
-        
         Console.WriteLine(IsValidSudoku(dataSet));
     }
     

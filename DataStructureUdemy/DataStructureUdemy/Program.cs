@@ -8,7 +8,6 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Start ...");
         var type = typeof(Problem);
         var types = AppDomain.CurrentDomain.GetAssemblies()
             .SelectMany(s => s.GetTypes())
@@ -29,6 +28,6 @@ public class Problem
     public float RunIndex = 0;
     public virtual void Run()
     {
-        
+        Console.WriteLine("Running Class: "+this.GetType().Namespace+"."+this.GetType().Name);
     }
 }
