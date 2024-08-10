@@ -15,7 +15,10 @@ public class PlusOneProb : Problem
         // int[] res = PlusOne(data.ToArray());
         // Console.WriteLine(res);
         // Console.WriteLine("Climb Stairs = "+ClimbStairs(40));
-        Console.WriteLine(IsPalindrome("A man, a plan, a canal -- Panama"));
+        // Console.WriteLine(IsPalindrome("A man, a plan, a canal -- Panama"));
+        List<int> datSet = new List<int>() { 6,5,5};
+
+        Console.WriteLine(MajorityElement(datSet.ToArray()));
     }
 
     public int[] PlusOne(int[] digits)
@@ -93,5 +96,33 @@ public class PlusOneProb : Problem
         }
         
         return true;
+    }
+    //Majority Element
+    
+    public int MajorityElement(int[] nums)
+    {
+        //num : Count
+        Dictionary<int, int> data = new Dictionary<int, int>();
+        
+        int max = 0;
+        int maxIndex = -1;
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (data.ContainsKey(nums[i]))
+            {
+                data[nums[i]]++;
+            }
+            else
+            {
+                data.Add(nums[i],1);
+            }
+
+            if (max < data[nums[i]])
+            {
+                max = data[nums[i]];
+                maxIndex = nums[i];
+            }
+        }
+        return maxIndex;
     }
 }
