@@ -10,7 +10,7 @@ public class LongestCommonSubsequence : Problem
     public override void Run()
     {
         string s1 = "abc";
-        string s2 = "def";
+        string s2 = "abefghc";
         int[][] dp = new int[s1.Length][];
         for (int i = 0; i < s1.Length; i++)
         {
@@ -21,6 +21,14 @@ public class LongestCommonSubsequence : Problem
             }
         }
         Console.WriteLine(LCS(s1,s2,0,0,dp));
+        for (int i = 0; i < s1.Length; i++)
+        {
+            for (int j = 0; j < s2.Length; j++)
+            {
+                Console.Write(dp[i][j]+" ");
+            }
+            Console.WriteLine();
+        }
     }
     /*
      * s1 = ABCD
