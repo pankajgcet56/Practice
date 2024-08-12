@@ -125,4 +125,22 @@ public class PlusOneProb : Problem
         }
         return maxIndex;
     }
+    public double MyPow(double x, int n)
+    {
+        //Power : Value
+        Dictionary<int, double> data = new Dictionary<int, double>();
+        int currentPower = 1;
+        double res = x;
+        while (currentPower != n)
+        {
+            if (currentPower * 2 < n)
+            {
+                res = res * res;
+                currentPower *= 2;
+            }
+            
+        }
+
+        return 0;
+    }
 }
