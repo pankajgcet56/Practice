@@ -21,6 +21,15 @@ public class WineSelling : Problem
         }
         
         Console.WriteLine(Wines(prices.ToArray(),0,prices.Count-1,1,dp));
+        
+        for (int i = 0; i < prices.Count; i++)
+        {
+            for (int j = 0; j < prices.Count; j++)
+            {
+                Console.Write(dp[i][j]+" ");
+            }
+            Console.WriteLine();
+        }
     }
 
     private int Wines(int[] prices, int l, int r,int y,int[][] dp)
@@ -29,7 +38,7 @@ public class WineSelling : Problem
         if (dp[l][r] != -1) return dp[l][r];
         int leftP = prices[l] * y + Wines(prices, l + 1, r, y + 1, dp);
         int rightP = prices[r] * y + Wines(prices, l, r - 1, y + 1, dp);
-        Console.WriteLine("L = "+leftP+", R = "+rightP+" :: "+l+","+r);
+        // Console.WriteLine("L = "+leftP+", R = "+rightP+" :: "+l+","+r);
         return dp[l][r]=Math.Max(leftP,rightP);
     }
     
